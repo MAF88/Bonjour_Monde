@@ -1,0 +1,10 @@
+---
+title: "hello"
+output: html_document
+date: "2024-12-13"
+---
+
+```{r }
+print("hello world !")
+```
+
